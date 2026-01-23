@@ -369,7 +369,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       category: "App",
       image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg",
       technologies: ["Flutter", "APIs", "Maps SDK"],
-      liveUrl: 'weatherforcast-navneet.netlify.app',
+      liveUrl: 'https://weatherforcast-navneet.netlify.app',
       githubUrl: 'https://github.com/Navneetkumar2918/Weather_Forecast_App',
     },
     {
@@ -386,7 +386,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
         'AsyncStorage',
         'REST API',
       ],
-      liveUrl: 'postsexplorer-navneet.netlify.app',
+      liveUrl: 'https://postsexplorer-navneet.netlify.app',
       githubUrl: 'https://github.com/Navneetkumar2918/React-Native-Posts-App',
     },
   ]);
