@@ -386,7 +386,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
         'AsyncStorage',
         'REST API',
       ],
-      liveUrl: 'https://YOUR-VERCEL-LINK.vercel.app',
+      liveUrl: 'postsexplorer-navneet.netlify.app',
       githubUrl: 'https://github.com/Navneetkumar2918/React-Native-Posts-App',
     },
   ]);
