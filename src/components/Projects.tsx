@@ -93,7 +93,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       description:
        'A two-player Tic Tac Toe game developed using C++, HTML, CSS, and Java. It features turn-based gameplay, input validation, win/draw detection logic, and a clean structured design for smooth user experience.',
       category: 'Game',
-      image: 'https://images.pexels.com/photos/278918/pexels-photo-278918.jpeg',
+      image: "https://images.pexels.com/photos/695644/pexels-photo-695644.jpeg",
       technologies: ["HTML","CSS","Java","Object-Oriented Programming"],
       liveUrl: 'https://your-tictactoe-live-link.netlify.app',
 
