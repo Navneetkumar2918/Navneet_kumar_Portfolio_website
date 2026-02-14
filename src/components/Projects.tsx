@@ -16,6 +16,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
     { id: 'Web', label: 'Web Development', icon: Globe },
     { id: 'App', label: 'App Development', icon: Smartphone },
     { id: 'AI', label: 'AI Projects', icon: Brain }
+    { id: 'Game', label: 'Games', icon: Layers }
   ];
 
   const [sectionTitle, setSectionTitle] = useState("My Projects");
