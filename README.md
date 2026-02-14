@@ -59,7 +59,7 @@ Portfolio/
 Follow these steps to run it locally 👇
 
 # Clone this repository
-git clone https://github.com/Navneetkumar2918/portfolio.git
+git clone https://github.com/Navneetkumar2918/portfolio.git OR http://localhost:5173/Navneet_kumar_Portfolio_website/
 
 # Navigate to the project folder
 cd portfolio
