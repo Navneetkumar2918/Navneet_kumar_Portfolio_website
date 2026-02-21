@@ -43,7 +43,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg",
       technologies: ["C++", "OOP", "Data Structures"],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/Navneetkumar2918/Doctor_Connect",
     },
     {
       id: 3,
@@ -72,7 +72,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       category: "App",
       image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg",
       technologies: ["Flutter", "APIs", "Maps SDK"],
-      liveUrl: 'https://weatherforcast-navneet.netlify.app',
+      liveUrl: 'https://weatherforecast-woad.vercel.app/',
       githubUrl: 'https://github.com/Navneetkumar2918/Weather_Forecast_App',
     },
     {
@@ -95,7 +95,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       category: 'Game',
       image: "https://images.pexels.com/photos/29422541/pexels-photo-29422541.jpeg?auto=compress&cs=tinysrgb&w=1200",
       technologies: ["HTML","CSS","Java","Object-Oriented Programming"],
-      liveUrl: 'https://your-tictactoe-live-link.netlify.app',
+      liveUrl: 'https://tic-tac-toe-game-azure-gamma.vercel.app/',
 
       githubUrl: 'https://github.com/Navneetkumar2918/TicTacToe_Game',
     },
