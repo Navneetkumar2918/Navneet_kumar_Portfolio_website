@@ -91,14 +91,19 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       id: 7,
       title: 'TicTacToe Game',
       description:
-       'A two-player Tic Tac Toe game developed using C++, HTML, CSS, and Java. It features turn-based gameplay, input validation, win/draw detection logic, and a clean structured design for smooth user experience.',
+        'A two-player Tic Tac Toe game developed using C++, HTML, CSS, and Java. It features turn-based gameplay, input validation, win/draw detection logic, and a clean structured design for smooth user experience.',
       category: 'Game',
       image: "https://images.pexels.com/photos/29422541/pexels-photo-29422541.jpeg?auto=compress&cs=tinysrgb&w=1200",
       technologies: ["HTML","CSS","Java","Object-Oriented Programming"],
+<<<<<<< HEAD
       liveUrl: 'https://tictactoegamenavneet.netlify.app/,
 
+=======
+      liveUrl: 'https://tictactoegamenavneet.netlify.app/',
+>>>>>>> 1422f0a (Updated resume and portfolio)
       githubUrl: 'https://github.com/Navneetkumar2918/TicTacToe_Game',
     },
+
     {
       id: 8,
       title: 'Breast Cancer Classification',
@@ -333,3 +338,15 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
 
 export default Projects;
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> 1422f0a (Updated resume and portfolio)
