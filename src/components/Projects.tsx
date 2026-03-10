@@ -72,7 +72,7 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       category: "App",
       image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg",
       technologies: ["Flutter", "APIs", "Maps SDK"],
-      liveUrl: 'https://weatherforecast-woad.vercel.app/',
+      liveUrl: 'https://tictactoegamenavneet.netlify.app/',
       githubUrl: 'https://github.com/Navneetkumar2918/Weather_Forecast_App',
     },
     {
