@@ -95,12 +95,8 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
       category: 'Game',
       image: "https://images.pexels.com/photos/29422541/pexels-photo-29422541.jpeg?auto=compress&cs=tinysrgb&w=1200",
       technologies: ["HTML","CSS","Java","Object-Oriented Programming"],
-<<<<<<< HEAD
-      liveUrl: 'https://tictactoegamenavneet.netlify.app/,
-
-=======
       liveUrl: 'https://tictactoegamenavneet.netlify.app/',
->>>>>>> 1422f0a (Updated resume and portfolio)
+
       githubUrl: 'https://github.com/Navneetkumar2918/TicTacToe_Game',
     },
 
