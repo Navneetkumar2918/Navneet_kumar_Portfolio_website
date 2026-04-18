@@ -333,16 +333,3 @@ const Projects: React.FC<ProjectsProps> = ({ editMode }) => {
 };
 
 export default Projects;
-
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
->>>>>>> 1422f0a (Updated resume and portfolio)
