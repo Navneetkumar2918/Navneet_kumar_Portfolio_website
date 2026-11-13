@@ -102,7 +102,7 @@ const ResumeModal: React.FC<ResumeModalProps> = ({ onClose, editMode }) => {
                   National Institute of Technology Silchar, Assam
                 </p>
                 <p className="text-gray-600 dark:text-gray-300 text-sm">
-                  Currently Pursuing | Expected: 2025
+                  Completed |  2026
                 </p>
               </div>
               <div className="border-l-4 border-green-500 pl-6" {...editableProps}>
